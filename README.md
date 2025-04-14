@@ -50,7 +50,7 @@ The aim of this project is to develop a Pharmaceutical that efficiently manages 
 -Dashboard interaction <a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/Pharmaceutical.png">View Dashboard</a>
 ## Process
 - Create Database Pharmaceutical with using Mysql tool and create table pharmacy  with 110 columns.
-- <a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/snip11.png">Inserting Data</a>
+<a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/snip11.png">Inserting Data</a>
 
 - Importing csv file from MySQL server community into MySQL workbench.
 
