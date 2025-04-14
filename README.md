@@ -61,8 +61,7 @@ The aim of this project is to develop a Pharmaceutical that efficiently manages 
 
 - Performing View And Joins
 
-- Performing Pandas, NumPy and matplotlib using Google Colab.
-Importing and read csv file
+- Performing Pandas, NumPy and matplotlib using Google Colab.Importing and read csv file
 
 -Data Exploration using pandas
 
