@@ -1,4 +1,4 @@
-## Report On Data Pharmaceutical Analytics
+# Report On Data Pharmaceutical Analytics
 # Aim: 
 The aim of this project is to develop a Pharmaceutical that efficiently manages the inventory, billing, expiry tracking, and stock details of pharmaceutical products to ensure smooth operations in a pharmacy setup.
 # Objectives:
