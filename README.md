@@ -63,25 +63,25 @@ The aim of this project is to develop a Pharmaceutical that efficiently manages 
 
 - Performing Pandas, NumPy and matplotlib using Google Colab.Importing and read csv file
 
+- Data Exploration using pandas
 
--Data Exploration using pandas
+- Data Cleaning using pandas
 
--Data Cleaning using pandas
+- Line chart for visualization using matplotlib
 
--Line chart for visualization using matplotlib
+- Bar chart for visualization using matplotlib
 
--Bar chart for visualization using matplotlib
+- Importing data file into powerbi and transform
 
--Importing data file into powerbi and transform
-
--Creating hierarchical model
+- Creating hierarchical model
 
 - Create dashboard using Power Bi Desktop
 <a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/Pharmaceutical.png">View Dashboard</a>
 
--Real time Insights dashboard
+- Real time Insights dashboard
 <a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/Real_time_insights.png">Real-time-insights</a>
-
+## Conclusion:
+In conclusion, this project achieves its goal of streamlining pharmacy management and can be further enhanced with more advanced tools or integrated into larger healthcare systems for broader application.
 
 
 
