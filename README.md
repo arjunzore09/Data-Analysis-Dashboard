@@ -14,9 +14,13 @@ The aim of this project is to develop a Pharmaceutical that efficiently manages 
 
 ## Technologies Used:
 •	Mysql server community
+
 •	Mysql Workbench
+
 •	Google Colab (Python)
+
 •	PowerBi
+
 •	Excel
 
 ## Dataset used
@@ -24,14 +28,23 @@ The aim of this project is to develop a Pharmaceutical that efficiently manages 
 
 ## Questions KPI
 -What is the total quantity of pharmaceutical products sold?
+
 -Which payment method generated the highest total cost?
+
 -What is the most used form type of medicine?
+
 -Which city has the highest quantity of purchases by patients?
+
 -Which pharmacy branch dispensed the highest quantity of medicines?
+
 -Which pharmacy branch dispensed the highest quantity of medicines?
+
 -Which medicine has the highest total cost?
+
 -Which manufacturer distributed the highest quantity of medicines?
+
 -Which cities showed insurance usage, and how do they differ from those without insurance?
+
 -Is there a visible trend of insurance use in certain patient cities?
 
 -Dashboard interaction <a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/Pharmaceutical.png">View Dashboard</a>
