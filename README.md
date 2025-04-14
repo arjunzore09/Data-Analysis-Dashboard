@@ -12,7 +12,8 @@ The aim of this project is to develop a Pharmaceutical that efficiently manages 
 •	Google Colab (Python)
 •	PowerBi
 •	Excel
-
+## Dataset used
+-<a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/pharmacy.xlsx">Dataset</a>
 
 
 
