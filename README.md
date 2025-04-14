@@ -87,5 +87,8 @@ The aim of this project is to develop a Pharmaceutical that efficiently manages 
 ## Conclusion:
 In conclusion, this project achieves its goal of streamlining pharmacy management and can be further enhanced with more advanced tools or integrated into larger healthcare systems for broader application.
 
+## Contact:
+Gmail= "arjunzore8803@gmail.com"
+
 
 
