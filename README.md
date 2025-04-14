@@ -48,7 +48,39 @@ The aim of this project is to develop a Pharmaceutical that efficiently manages 
 -Is there a visible trend of insurance use in certain patient cities?
 
 -Dashboard interaction <a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/Pharmaceutical.png">View Dashboard</a>
+## Process
+- Create Database Pharmaceutical with using Mysql tool and create table pharmacy  with 110 columns.
 
+- Importing csv file from MySQL server community into MySQL workbench.
+
+- Performing Operators on that Pharmacy data file 
+
+- Performing Aggregation functions and Clauses
+
+- Performing Transaction Control Language
+
+- Performing View And Joins
+
+- Performing Pandas, NumPy and matplotlib using Google Colab.
+Importing and read csv file
+
+-Data Exploration using pandas
+
+-Data Cleaning using pandas
+
+-Line chart for visualization using matplotlib
+
+-Bar chart for visualization using matplotlib
+
+-Importing data file into powerbi and transform
+
+-Creating hierarchical model
+
+- Create dashboard using Power Bi Desktop
+<a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/Pharmaceutical.png">View Dashboard</a>
+
+-Real time Insights dashboard
+<a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/Real_time_insights.png">Real-time-insights</a>
 
 
 
