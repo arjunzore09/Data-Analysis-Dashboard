@@ -65,12 +65,15 @@ The aim of this project is to develop a Pharmaceutical that efficiently manages 
 - Performing Pandas, NumPy and matplotlib using Google Colab.Importing and read csv file
 
 - Data Exploration using pandas
+<a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/Pandas.jpeg">Pandas</a>
 
 - Data Cleaning using pandas
 
 - Line chart for visualization using matplotlib
+<a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/LineChart.jpeg">LineChart</a>
 
 - Bar chart for visualization using matplotlib
+<a href="https://github.com/arjunzore09/Data-Analysis-Dashboard/blob/main/BarChart.jpeg">BarChart</a>
 
 - Importing data file into powerbi and transform
 
